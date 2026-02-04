@@ -1,23 +1,51 @@
 ## Hi, I'm Elliott 👋
 
-🎓 Master's student at University of Copenhagen, Pharmaceutical Sciences
+🎓 Master's student in Pharmaceutical Sciences at the University of Copenhagen
 
 🧪 Bachelor's degree in Pharmacy
 
 🧬 Part of the Center for Pharmaceutical Data Science (CPDSE)
 
-🧠 Interested in protein-protein interactions, protein complex predictions and deep learning
+🧠 Research interests:
+- Protein-protein interactions (PPIs)
+- Protein complex structure prediction
+- Deep learning for structural biology and pharmaceutical drug development
 
 ## My current thesis project 🔌
-- Assessing AI Scoring Accuracy for De Novo Proteins
+**Assessing AI Scoring Accuracy for De Novo Proteins**
 
-## Tools, languages and experiences
+Focus areas include:
+- Benchmarking AI structure prediction models for scoring de novo protein designs
+- Correlation analysis between model confidence metrics and experimental binding success
+- Evaluation of AI‑based pre‑screening to reduce experimental burden in protein design pipelines
+
+## Tools, languages and experience
+
+**Programming and tooling**
 - Python
-- Jupyter notebook
-- Experience running several state-of-the-art deep learning–based biomolecular complex structure prediction models such as AlphaFold3, OpenFold3, HelixFold3 and more
-- Wide experimental experience in wet labs including but not limited to organic chemistry labs, protein synthesis and farmaceutical production
+- Bash and command-line / terminal usage
+- Jupyter Notebook
+- GitHub
+
+**Computational structural biology**
+- Hands-on experience running state-of-the-art deep learning–based biomolecular complex structure prediction models, including:
+  - AlphaFold2
+  - AlphaFold3
+  - OpenFold2
+  - OpenFold3
+  - HelixFold3
+  - Boltz-2
+  - Chai-1
+  - Protenix
+
+
+**Experimental background**
+- Extensive wet-lab experience, including:
+  - Organic chemistry
+  - Pharmaceutical production
+  - Analytical chemistry and characterization techniques, including titration, HPLC, and spectroscopy
 - GMP and GLP experience
-- Felasa Jaboratory Animal Science certificate (Function A, B and D)
+- FELASA Laboratory Animal Science certification (Functions A, B, and D)
 
 <!--
 **ElliottTaguchi/ElliottTaguchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
