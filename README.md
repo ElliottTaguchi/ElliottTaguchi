@@ -1,8 +1,11 @@
 ## Hi, I'm Elliott 👋
 
 🎓 Master's student at University of Copenhagen, Pharmaceutical Sciences
+
 🧪 Bachelor's degree in Pharmacy
+
 🧬 Part of the Center for Pharmaceutical Data Science (CPDSE)
+
 🧠 Interested in protein-protein interactions, protein complex predictions and deep learning
 
 ## My current thesis project 🔌
