@@ -40,10 +40,11 @@ Focus areas include:
 
 
 **Experimental background**
-- Extensive wet-lab experience, including:
+- Extensive laboratory experience, including:
   - Organic chemistry
   - Pharmaceutical production
   - Analytical chemistry and characterization techniques, including titration, HPLC, and spectroscopy
+  - Protein synthesis
 - GMP and GLP experience
 - FELASA Laboratory Animal Science certification (Functions A, B, and D)
 
