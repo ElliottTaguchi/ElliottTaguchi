@@ -10,6 +10,7 @@
 - Protein-protein interactions (PPIs)
 - Protein complex structure prediction
 - Deep learning for structural biology and pharmaceutical drug development
+- Neuroscience & neuropharmacology
 
 ## My current thesis project 🔌
 **Assessing AI Scoring Accuracy for De Novo Proteins**
@@ -19,7 +20,21 @@ Focus areas include:
 - Correlation analysis between model confidence metrics and experimental binding success
 - Evaluation of AI‑based pre‑screening to reduce experimental burden in protein design pipelines
 
-## Tools, languages and experience
+## Earlier projects 🌸
+
+**Calcium Imaging in living mouse brain slices**
+- A technical ISU focusing on the technique of preparing living mouse brain slices for fluorescent calcium imaging
+- Gained both academic and practical knowledge about fluorescent calcium imaging and production of living mouse brain slices
+
+**Development and production of generic gel and innovative soluble tablets containing Piroxicam**
+- My bachelor's project focusing on producing two pharmaceutical products with the API Piroxicam
+- Focus on pharmaceutical processes, tests and quality standards with reference to the European Pharmacopoeia
+- Quality by Design (QbD), Quality Target Product Profile (QTPP) and Design of Experiments (DoE)
+
+**Best oral presentation 2024/2025 at the Seventh Annual Conference of Advanced Pharmaceutics**
+- A prize awarded to the most innovative project at the Seventh Annual Conference of the Advanced Pharmaceutics Course at the Department of Pharmacy, University of Copenhanen
+
+## Tools, languages and experience ⏳
 
 **Programming and tooling**
 - Python
@@ -38,27 +53,13 @@ Focus areas include:
   - Chai-1
   - Protenix
 
-
 **Experimental background**
 - Extensive laboratory experience, including:
   - Organic chemistry
   - Pharmaceutical production
   - Analytical chemistry and characterization techniques, including titration, HPLC, and spectroscopy
   - Protein synthesis
+  - Preparing living mouse brain slices for subsequent fluorescent calcium imaging
 - GMP and GLP experience
 - FELASA Laboratory Animal Science certification (Functions A, B, and D)
 
-<!--
-**ElliottTaguchi/ElliottTaguchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
