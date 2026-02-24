@@ -4,7 +4,7 @@
 
 🧪 Bachelor's degree in Pharmacy
 
-🧬 Part of the Center for Pharmaceutical Data Science (CPDSE)
+🧬 Part of the Data Science for Drug Design group (DSDD-UCPH)
 
 🧠 Research interests:
 - Protein-protein interactions (PPIs)
