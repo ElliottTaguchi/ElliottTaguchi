@@ -1,10 +1,8 @@
 ## Hi, I'm Elliott 👋
 
-🎓 Master's student in Pharmaceutical Sciences at the University of Copenhagen
+🎓 Master's Degree in Pharmaceutical Sciences from the University of Copenhagen
 
 🧪 Bachelor's degree in Pharmacy
-
-🧬 Part of the Data Science for Drug Design group (DSDD-UCPH)
 
 🧠 Research interests:
 - Protein-protein interactions (PPIs)
@@ -12,7 +10,7 @@
 - Deep learning for structural biology and pharmaceutical drug development
 - Neuroscience & neuropharmacology
 
-## My current thesis project 🔌
+## My thesis project 🔌
 **Assessing AI Scoring Accuracy for De Novo Proteins**
 
 Focus areas include:
