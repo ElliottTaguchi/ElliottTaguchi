@@ -1,5 +1,7 @@
 ## Hi, I'm Elliott 👋
 
+🛠️ Software Developer & IT Consultant intern at DAQUMA
+
 🎓 Master's Degree in Pharmaceutical Sciences from the University of Copenhagen
 
 🧪 Bachelor's degree in Pharmacy
