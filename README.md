@@ -12,6 +12,16 @@
 - Deep learning for structural biology and pharmaceutical drug development
 - Neuroscience & neuropharmacology
 
+## My work at DAQUMA 💼
+
+**Quality Control of Tasks and Requirements**
+
+**Help developing the DAQUMA AI-Platform**
+
+**Contributing to customer deliverables**
+
+**Supporting troubleshooting, incident resolution and improvement of the DAQUMA AI-Platform**
+
 ## My thesis project 🔌
 **Assessing AI Scoring Accuracy for De Novo Proteins**
 
@@ -41,6 +51,7 @@ Focus areas include:
 - Bash and command-line / terminal usage
 - Jupyter Notebook
 - GitHub
+- Microsoft Azure DevOps
 
 **Computational structural biology**
 - Hands-on experience running state-of-the-art deep learning–based biomolecular complex structure prediction models, including:
