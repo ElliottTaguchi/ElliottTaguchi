@@ -22,6 +22,8 @@
 
 **Supporting troubleshooting, incident resolution and improvement of the DAQUMA AI-Platform**
 
+**Working with the Platform through ADO**
+
 ## My thesis project 🔌
 **Assessing AI Scoring Accuracy for De Novo Proteins**
 
